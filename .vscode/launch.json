@@ -13,8 +13,8 @@
             ],
             "program": "${workspaceFolder}\\start.js",
             "env": {
-                "FORGE_CLIENT_ID": "IGMv2GBdiZ6tRUE7KJG7fVub2xA2ZpCl",
-                "FORGE_CLIENT_SECRET": "czKgTaE0G0cVIHiG",
+                "FORGE_CLIENT_ID": "",
+                "FORGE_CLIENT_SECRET": "",
                 "FORGE_CALLBACK_URL": "http://localhost:3000/api/forge/callback/oauth"
             }
         }
