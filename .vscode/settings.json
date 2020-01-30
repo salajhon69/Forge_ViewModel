@@ -1,0 +1,10 @@
+{
+    "autodesk.forge.environments": [
+        {
+            "title": "ViewModel",
+            "clientId": "salajhon69",
+            "clientSecret": "Jho3128245510",
+            "region": "US"
+        }
+    ]
+}
